@@ -1,16 +1,17 @@
-### Hi there 👋
+![](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
+### Bonjour 🙏🏻
+### My name is Amandeep Singh. I am a Data Science Intern, Machine Learning and Deep Learning Enthusiast who is on a path to learn and explore everything that this amazing field of science has to offer. 
 
-<!--
-**AmandeepSinghDhalla/AmandeepSinghDhalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You are most welcome to explore my learning and professional journey and maybe add a little something to it 😋. I am delighted to meet new people and communicate with them as it helps me grow both as a professional and as a person. I am trying to perfect the skills required to become a good Deep Learning Engineer.  
 
-Here are some ideas to get you started:
+### In my github profile, you will find different repositories where I have tried to showcase my learning over the period of time, where you can see my growth as well as the projects that I have worked on during my professional career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from the professional career, I love to spend time with my family and friends. In my free time, I prefer to play sports like volleyball or football. I tend to some good story telling, so I watch Anime or read some Mangas. So, I would also learn a bit of Animation along the way 😅. 
+
+### Some Random information about me:
+- 🔭 I’m currently working with Analytics Vidhya as a Data Science Intern
+- 🌱 I’m currently learning to Dashboarding, EDA, Machine Learning, Deep Learning and building my Portfolio 
+- 👯 I’m looking to collaborate on real-life Machine Learning and Deep Learning Projects 
+- 🤔 I’m looking for help with basics of EDA, hypothesis generation and testing and making effecient Dashboards
+- 💬 Ask me about: Data Science, Machine Learning, Lifestyle, Sports
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandeepsinghdhalla/) or [Outlook](amandeepsinghdhalla@live.com)
