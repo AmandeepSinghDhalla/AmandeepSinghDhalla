@@ -4,9 +4,9 @@
 
 You are most welcome to explore my learning and professional journey and maybe add a little something to it 😋. I am delighted to meet new people and communicate with them as it helps me grow both as a professional and as a person. I am trying to perfect the skills required to become a good Deep Learning Engineer.  
 
-### In my github profile, you will find different repositories where I have tried to showcase my learning over the period of time, where you can see my growth as well as the projects that I have worked on during my professional career.
+### In my Github profile, you will find different repositories where I have tried to showcase my learning over the period, where you can see my growth as well as the projects that I have worked on during my professional career.
 
-Apart from the professional career, I love to spend time with my family and friends. In my free time, I prefer to play sports like volleyball or football. I tend to some good story telling, so I watch Anime or read some Mangas. So, I would also learn a bit of Animation along the way 😅. 
+Apart from my professional career, I love to spend time with my family and friends. In my free time, I prefer to play sports like volleyball or football. I tend to do some good storytelling, so I watch Anime or read some Mangas. So, I would also learn a bit of Animation along the way 😅. 
 
 ### Some Random information about me:
 - 🔭 I’m currently working with Analytics Vidhya as a Data Science Intern
