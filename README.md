@@ -14,4 +14,4 @@ Apart from my professional career, I love to spend time with my family and frien
 - 👯 I’m looking to collaborate on real-life Machine Learning and Deep Learning Projects 
 - 🤔 I’m looking for help with basics of EDA, hypothesis generation and testing and making effecient Dashboards
 - 💬 Ask me about: Data Science, Machine Learning, Lifestyle, Sports
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandeepsinghdhalla/) or [Outlook](amandeepsinghdhalla@live.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandeepsinghdhalla/) or [Outlook](amandeepsinghdhalla@live.com) or [Kaggle](https://www.kaggle.com/amandeepsinghdhalla)
