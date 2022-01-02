@@ -9,7 +9,7 @@ You are most welcome to explore my learning and professional journey and maybe a
 Apart from my professional career, I love to spend time with my family and friends. In my free time, I prefer to play sports like volleyball or football. I tend to do some good storytelling, so I watch Anime or read some Mangas. So, I would also learn a bit of Animation along the way 😅. 
 
 ### Some Random information about me:
-- 🔭 I’m currently working with Analytics Vidhya as a Data Science Intern
+- 🔭 I’m currently working with Analytics Vidhya as a Data Analyst
 - 🌱 I’m currently learning to Dashboarding, EDA, Machine Learning, Deep Learning and building my Portfolio 
 - 👯 I’m looking to collaborate on real-life Machine Learning and Deep Learning Projects 
 - 🤔 I’m looking for help with basics of EDA, hypothesis generation and testing and making effecient Dashboards
