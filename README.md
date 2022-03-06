@@ -1,5 +1,5 @@
-![](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
-### My name is Amandeep Singh. 
+![](https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif)
+### *Bonjour*,  My name is Amandeep Singh. 
 I am a Data Science, Machine Learning and Deep Learning Enthusiast who is on a path to learn and explore everything that this amazing field of science has to offer. 
 
 Currently I am working as a **Senior Associate in Data Science and Machine Learning** in **Paytm**. In this github profile, I will be documenting my professional and learning journey with anyone who is looking to it.
