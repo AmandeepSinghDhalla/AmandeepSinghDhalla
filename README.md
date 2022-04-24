@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif)
+![](https://github.com/AmandeepSinghDhalla/images/blob/main/intro_github.gif)
 ### *Bonjour*,  My name is `AMANDEEP SINGH`. 
 I am a Data Science, Machine Learning and Deep Learning Enthusiast who is on a path to learn and explore everything that this amazing field of science has to offer. 
 
